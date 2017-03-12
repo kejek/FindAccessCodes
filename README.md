@@ -1,12 +1,14 @@
 # FindAccessCodes
 Google Code Challenge
 A coworker was invited to take the google code challenge, and we all brainstormed together to develop this solution.
-This was a collabrotive effort, not a solo venture - all of us partipated in this solution.
+This was a collabrotive effort, not a solo venture - all of us participated in this solution.
 
 **Note - This code was able to pass the challenge **
 
 **Full Problem**
+
 Find the Access Codes
+
 In order to destroy Commander Lambda's LAMBCHOP doomsday device, you'll need
 access to it. But the only door leading to the LAMBCHOP chamber is secured with
 a unique lock system whose number of passcodes changes daily. Commander Lambda
