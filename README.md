@@ -5,7 +5,8 @@ This was a collabrotive effort, not a solo venture - all of us partipated in thi
 
 **Note - This code was able to pass the challenge **
 
-**Find the Access Codes
+**Full Problem**
+Find the Access Codes
 In order to destroy Commander Lambda's LAMBCHOP doomsday device, you'll need
 access to it. But the only door leading to the LAMBCHOP chamber is secured with
 a unique lock system whose number of passcodes changes daily. Commander Lambda
@@ -13,6 +14,7 @@ gets a report every day that includes the locks' access codes, but only she
 knows how to figure out which of several lists contains the access codes. You
 need to find a way to determine which list contains the access codes once
 you're ready to go in.
+
 Fortunately, now that you're Commander Lambda's personal assistant, she's
 confided to you that she made all the access codes "lucky triples" in order to
 help her better find them in the lists. A "lucky triple" is a tuple (x, y, z)
@@ -21,6 +23,7 @@ you can figure out which list contains the number of access codes that matches
 the number of locks on the door when you're ready to go in (for example, if
 there's 5 passcodes, you'd need to find a list with 5 "lucky triple" access
 codes).
+
 Write a function answer(l) that takes a list of positive integers l and counts
 the number of "lucky triples" of (lst[i], lst[j], lst[k]) where i < j < k.
 The length of l is between 2 and 2000 inclusive.  The elements of l are between
